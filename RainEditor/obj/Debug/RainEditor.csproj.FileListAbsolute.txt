@@ -24,3 +24,16 @@ C:\Users\Thor\Documents\GitHub\RainScript\RainEditor\obj\Debug\RainEditor.csproj
 C:\Users\daser\source\repos\RainScript\RainEditor\bin\Debug\FastColoredTextBox.dll
 C:\Users\daser\source\repos\RainScript\RainEditor\bin\Debug\FastColoredTextBox.xml
 C:\Users\daser\source\repos\RainScript\RainEditor\obj\Debug\RainEditor.csproj.CopyComplete
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\bin\Debug\RainEditor.exe.config
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\bin\Debug\RainEditor.exe
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\bin\Debug\RainEditor.pdb
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\bin\Debug\FastColoredTextBox.dll
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\bin\Debug\FastColoredTextBox.xml
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.csprojAssemblyReference.cache
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.RainForm.resources
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.Properties.Resources.resources
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.csproj.GenerateResource.cache
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.csproj.CoreCompileInputs.cache
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.csproj.CopyComplete
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.exe
+C:\Users\Rheya Dhar\Desktop\RainScript\RainEditor\obj\Debug\RainEditor.pdb
